@@ -1,3 +1,9 @@
+# Changes
+This fork changes invisibles to use the colour defined by Base01 instead of Base03. This is because comments are defined to use Base03 and so comments with invisibles in them were indistinguishable from each other.
+
+Original README
+---
+
 # Base16 Vim
 See the [Base16 repository](https://github.com/chriskempson/base16) for more information.  
 This theme was built with [Base16 Builder PHP](https://github.com/chriskempson/base16-builder-php).
